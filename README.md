@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sagarb2003/dsa-practice/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/sagarb2003/dsa-practice/tree/master/0920-uncommon-words-from-two-sentences) |
+## String
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/sagarb2003/dsa-practice/tree/master/0920-uncommon-words-from-two-sentences) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/sagarb2003/dsa-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
