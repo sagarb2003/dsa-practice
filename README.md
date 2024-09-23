@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sagarb2003/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/sagarb2003/dsa-practice/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagarb2003/dsa-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Math
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagarb2003/dsa-practice/tree/master/0920-uncommon-words-from-two-sentences) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sagarb2003/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sagarb2003/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
