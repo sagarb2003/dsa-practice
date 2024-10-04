@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sagarb2003/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/sagarb2003/dsa-practice/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagarb2003/dsa-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarb2003/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sagarb2003/dsa-practice/tree/master/0189-rotate-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarb2003/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagarb2003/dsa-practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarb2003/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -37,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sagarb2003/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+## Sorting
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarb2003/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
