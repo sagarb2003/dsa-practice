@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sagarb2003/dsa-practice/tree/master/0189-rotate-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagarb2003/dsa-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarb2003/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagarb2003/dsa-practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagarb2003/dsa-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Counting
 |  |
 | ------- |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarb2003/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Stack
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagarb2003/dsa-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagarb2003/dsa-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
