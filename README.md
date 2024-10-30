@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sagarb2003/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/sagarb2003/dsa-practice/tree/master/0189-rotate-array) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarb2003/dsa-practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagarb2003/dsa-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarb2003/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sagarb2003/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarb2003/dsa-practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Matrix
 |  |
 | ------- |
@@ -53,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarb2003/dsa-practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagarb2003/dsa-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarb2003/dsa-practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 <!---LeetCode Topics End-->
