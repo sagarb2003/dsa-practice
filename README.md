@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sagarb2003/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/sagarb2003/dsa-practice/tree/master/0189-rotate-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sagarb2003/dsa-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarb2003/dsa-practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagarb2003/dsa-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarb2003/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sagarb2003/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sagarb2003/dsa-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sorting
 |  |
 | ------- |
@@ -60,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sagarb2003/dsa-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarb2003/dsa-practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 <!---LeetCode Topics End-->
