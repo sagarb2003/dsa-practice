@@ -1,3 +1,4 @@
+### Yt video: https://www.youtube.com/watch?v=FO7VXDfS8Gk
 <h2><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones">1402. Count Square Submatrices with All Ones</a></h2><h3>Medium</h3><hr><p>Given a <code>m * n</code> matrix of ones and zeros, return how many <strong>square</strong> submatrices have all ones.</p>
 
 <p>&nbsp;</p>
